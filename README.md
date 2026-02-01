@@ -9,7 +9,7 @@ B0006, B0007) to show how SOM centroids and CNN embeddings can be reused
 across cells without any target labels.
 
 <p align="center">
-<strong>docs/battery_cross_cell_som_cnn_demo.pdf</strong> contains all the
+<strong>battery_cross_cell_som_cnn_demo.pdf</strong> contains all the
 figures and slides described below.
 </p>
 
